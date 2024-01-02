@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Abdullah</h1>
 <h3 align="center">"Passionate Flutter Developer with 3 Years of Expertise | API Maestro | Animation Aficionado | UI Enthusiast | Firebase Fanatic"</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“
-￼
-
-”>
+<img align=“right” alt=“coding” width=“400” src=“![image](https://github.com/omar11698/omar116998/assets/69009750/1af76a83-225b-45b9-b887-8db33810d839)”>
 
 - I’m currently working on Awesome mobile app **NoteIt**
 
