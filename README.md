@@ -1,7 +1,10 @@
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Omar+Abdullah!;" />
-</h1># 💫 About Me:
-Hi 👋, I'm Omar Abdullah<br>"Passionate Flutter Developer with 3 Years of Expertise | API Maestro | Animation Aficionado | UI Enthusiast | Firebase Fanatic"🔭 I’m currently working on NoteIt Awesome mobile app<br>👯 I’m looking to collaborate on making major apps<br>🤝 I’m looking for help with finding the best UI designs to challenge me <br>🌱 I’m currently learning Flutter's awesome animations<br>💬 Ask me about flutter, clean architecture, and software development life cycle.<br>⚡ Fun fact I am so funny 
+
+
+</h1># 💫 About Me: 
+Hi 👋, I'm Omar Abdullah <br>"Passionate Flutter Developer with 3 Years of Expertise | API Maestro | Animation Aficionado | UI Enthusiast | Firebase Fanatic"🔭 I’m currently working on NoteIt Awesome mobile app<br>👯 I’m looking to collaborate on making major apps<br>🤝 I’m looking for help with finding the best UI designs to challenge me <br>🌱 I’m currently learning Flutter's awesome animations<br>💬 Ask me about flutter, clean architecture, and software development life cycle.<br>⚡ Fun fact I am so funny 
 
 
 ## 🌐 Socials:
@@ -17,7 +20,10 @@ Hi 👋, I'm Omar Abdullah<br>"Passionate Flutter Developer with 3 Years of Expe
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=omar11698&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+
 ### ✍️ Random Dev Quote
+<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
