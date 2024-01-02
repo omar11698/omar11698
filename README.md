@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Abdullah!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Omar+Abdullah!;" />
 </h1># 💫 About Me:
 Hi 👋, I'm Omar Abdullah<br>"Passionate Flutter Developer with 3 Years of Expertise | API Maestro | Animation Aficionado | UI Enthusiast | Firebase Fanatic"🔭 I’m currently working on NoteIt Awesome mobile app<br>👯 I’m looking to collaborate on making major apps<br>🤝 I’m looking for help with finding the best UI designs to challenge me <br>🌱 I’m currently learning Flutter's awesome animations<br>💬 Ask me about flutter, clean architecture, and software development life cycle.<br>⚡ Fun fact I am so funny 
 
