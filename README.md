@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Omar Abdullah</h1>
 <h3 align="center">"Passionate Flutter Developer with 3 Years of Expertise | API Maestro | Animation Aficionado | UI Enthusiast | Firebase Fanatic"</h3>
 
-- 🔭 I’m currently working on NoteIt Awesome mobile app **NoteIt**
+<img align=“right” alt=“coding” width=“400” src=“
+￼
+
+”>
+
+- I’m currently working on Awesome mobile app **NoteIt**
 
 - 🌱 I’m currently learning **Cool Animations**
 
@@ -29,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omar11698&show_icons=true&theme=dark&locale=en" alt="omar11698" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omar11698&theme=dark" alt="omar11698" /></p>
-
